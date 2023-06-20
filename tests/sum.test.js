@@ -1,4 +1,4 @@
-const sum = require("../sum");
+const sum = require("../functions/sum");
 
 /**
  * V1 les uns en dessous des autres

@@ -1,4 +1,4 @@
-const concatName = require("../concatName");
+const concatName = require("../functions/concatName");
 
 test("concatName to be a function", () => {
 	expect(typeof concatName).toBe("function");
